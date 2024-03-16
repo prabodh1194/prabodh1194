@@ -13,3 +13,9 @@ Hi, this is my README
 1. [Apache Spark](https://spark.apache.org/)
 2. [Apache Icerberg](https://iceberg.apache.org/)
 3. [Ray](https://www.ray.io/)
+
+### Shredding these books :)
+
+1. [Iceberg book](https://hello.dremio.com/wp-apache-iceberg-the-definitive-guide-reg.html)
+2. [Deltalake book](https://www.databricks.com/resources/ebook/delta-lake-the-definitive-guide-by-oreilly)
+3. [Spark book](https://link.springer.com/book/10.1007/978-1-4842-7383-8)
